@@ -36,3 +36,5 @@ yarn
 ```bash
 yarn start
 ```
+**5. Open the browser with the following url:
+[http://localhost:3000/graphiql](http://localhost:3000/graphiql)
