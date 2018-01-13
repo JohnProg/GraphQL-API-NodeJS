@@ -31,10 +31,12 @@ Choose the instructions according to your OS in the next URL
 ```bash
 yarn
 ```
+
 **4. Run the project**
 
 ```bash
 yarn start
 ```
-**5. Open the browser with the following url:
+
+**5. Open the browser with the following url:**
 [http://localhost:3000/graphiql](http://localhost:3000/graphiql)
